@@ -6,7 +6,7 @@
 ### About Me
 - 🎓 I'm a Computer Science student exploring the world of programming.
 - 💻 Java is my primary language, thanks to my curriculum.
-- 🎨 I'm passionate about Arts, Crafts, and Graphics in my free time.
+- 🎨 I'm passionate about Arts and Graphics in my free time.
 
 ### Quote
 *"Frogrammer"*
